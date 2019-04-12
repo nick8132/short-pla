@@ -1,0 +1,11 @@
+{
+  "name": "shortpla",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NFS <friis@post.com>",
+  "license": "ISC",
+  "description": "shortcuts for prompt, console.log and arguments on console"
+}
