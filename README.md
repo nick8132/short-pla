@@ -1,10 +1,10 @@
 # Short-pla
 ## Super simple to use
 
-# Installing globally:
+# Installing:
 
 Installation via `npm`:
-´npm i short-pla --s´
+`npm i short-pla --s`
 
 ## Usage
 ```js
